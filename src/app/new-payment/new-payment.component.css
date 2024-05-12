@@ -1,0 +1,14 @@
+mat-form-field{
+  display: block;
+}
+.paymentForm{
+  width: 600px;
+}
+
+.pdf-viewer{
+  height: 100vh;
+  display: block;
+  margin: 0 auto;
+  max-width: 1200px;
+
+}
